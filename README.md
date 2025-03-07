@@ -27,8 +27,7 @@ Want to check more demo videos? Follow me on [Twitter](https://twitter.com/n4ze3
 
 ### Railway (One-click deployment)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/TXdjD7?referralCode=olbszX)
-
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/8d2Rdz?referralCode=PvG1Hl)
 
 ## Installation 🛠️
 
